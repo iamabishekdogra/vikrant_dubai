@@ -1,9 +1,0 @@
-['Date/Time', 'SO2', 'DATA CAP.', 'SO2 Avg', 'NO2', 'DATA CAP.',
-       'No2 Avg', 'O3', 'DATA CAP.', 'O3 8H Avg.', 'Daily Capture',
-       'O3 Daily average', 'O3 Daily average (NS)', 'CO', 'DATA COUNT',
-       'DATA CAP.%', 'CO 8H Avg.', 'Daily Capture', 'CO Daily average', 'PM10',
-       'DATA CAP.', 'PM10 Avg', 'PM2.5', 'DATA CAP.', 'PM2.5 Avg',
-       'Lower Ambient Temperature', 'Upper Ambient Temperature',
-       'Barometric Pressure', 'RelativeHumidity', 'Wind Direction',
-       'Wind Speed', 'H2S', 'Toluene', 'O_Xylene', 'EthylBenzene',
-       'mp_xylene_', 'Benzene', 'CH4', 'NMHC', 'THC', 'Noise']
